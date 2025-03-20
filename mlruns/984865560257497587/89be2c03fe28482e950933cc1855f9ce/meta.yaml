@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/984865560257497587/89be2c03fe28482e950933cc1855f9ce/artifacts
+end_time: 1742372940544
+entry_point_name: ''
+experiment_id: '984865560257497587'
+lifecycle_stage: active
+run_id: 89be2c03fe28482e950933cc1855f9ce
+run_name: fortunate-elk-263
+run_uuid: 89be2c03fe28482e950933cc1855f9ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742372932508
+status: 3
+tags: []
+user_id: repl

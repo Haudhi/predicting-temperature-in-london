@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/984865560257497587/1e71a9ea99e842f9b9b10d37b73252c5/artifacts
+end_time: 1742372932435
+entry_point_name: ''
+experiment_id: '984865560257497587'
+lifecycle_stage: active
+run_id: 1e71a9ea99e842f9b9b10d37b73252c5
+run_name: learned-penguin-627
+run_uuid: 1e71a9ea99e842f9b9b10d37b73252c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742372928272
+status: 3
+tags: []
+user_id: repl

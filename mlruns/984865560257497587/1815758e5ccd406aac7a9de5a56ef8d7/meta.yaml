@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/984865560257497587/1815758e5ccd406aac7a9de5a56ef8d7/artifacts
+end_time: 1742373196644
+entry_point_name: ''
+experiment_id: '984865560257497587'
+lifecycle_stage: active
+run_id: 1815758e5ccd406aac7a9de5a56ef8d7
+run_name: lyrical-swan-199
+run_uuid: 1815758e5ccd406aac7a9de5a56ef8d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742373193292
+status: 3
+tags: []
+user_id: repl
